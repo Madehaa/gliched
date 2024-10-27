@@ -1,0 +1,121 @@
+
+/* Header of the page */
+
+header{
+    position: fixed;
+    z-index: 2; 
+    right: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.979);
+}
+.header1{
+    display: flex;
+  
+
+}
+.logo{
+    width: 80px;
+    height: 80px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.bar{
+    position: absolute;
+    top: 25px;
+    left: 725px;
+    width: 673px;
+    height: 41px;
+}
+.anchor{
+    padding-right: 40px;
+    text-decoration: none;
+    color:white;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+.contact{
+    background-color: rgba(250, 144, 33, 1);
+    cursor: pointer;
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+}
+.anchor:hover{
+    color: rgba(250, 144, 33, 1);
+}
+/* this is a footer of a page */
+
+footer{
+    padding-top: 60px;
+}
+.footerflex{
+    display: flex;
+   
+}
+.footerlogo{
+    width: 80px;
+    height: 80px;
+}
+.footer_p1{
+    color: aliceblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.footer_p2{
+    color: aliceblue;
+}
+.footer_p3{
+    color: aliceblue;
+    padding-top: 15px;
+}
+.footer_p4{
+    color: aliceblue;
+}
+.footer_p5{
+    color: aliceblue;
+}
+.footer_p6{
+    color: aliceblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+}
+.footer_a{
+    color: aliceblue;
+    text-decoration: none;
+}
+.footer-part1{
+   margin-left: 83px;
+}
+.footer-part2{
+   margin-left: 50px;
+   margin-top: 25px;
+    width: 200px;
+    height: 125px;
+    padding: 15px;
+}
+.footer-part3{
+    width: 225px;
+    height: 138px;
+    margin-top: 25px;
+}
+.footer-part4{
+    width: 184px;
+    height: 34px;
+    display: flex;
+    position: relative;
+    bottom: -88px;
+}
+.copyright{
+    color: aliceblue;
+    text-align: center; 
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+.f-a{
+    text-decoration: none;
+    color: #E8E8E8;
+}
